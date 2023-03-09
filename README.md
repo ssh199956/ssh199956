@@ -11,7 +11,7 @@ I also usually learn and guide people who are just starting out in the programmi
 
 Some personal things about me:
 🌱 I’m currently studying about Dart 🐦.
-🛠 I’m currently working with Dart, Java, Flutter and FireBase.
+🛠 I’m currently working with Dart, Java, Flutter and FireBase.\n
 ✍️ I usually contribute to the mdn/browser-compat-data and github/docs repositories.
 📝 I have some articles published on this repository.
 📫 You can reach me at my e-mail.
