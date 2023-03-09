@@ -23,4 +23,4 @@ I also usually learn and guide people who are just starting out in the programmi
   
   
   
-                                     <center>Last update: Wednesday, Jan 11th 2022, 22:41:55 pm UTC.</center>
+                                           Last update: Wednesday, Jan 11th 2022, 22:41:55 pm UTC.
