@@ -9,11 +9,11 @@ I am a Software Engineer, graduated from Haerbin institute of information engine
 
 I also usually learn and guide people who are just starting out in the programming world. I am currently working for web and mobile development. I joined GitHub 6 years ago and since then I have become passionate about open source and versioning.
 
-Some personal things about me:
-🌱 I’m currently studying about Dart 🐦.
-🛠 I’m currently working with Dart, Java, Flutter and FireBase.
-✍️ I usually contribute to the mdn/browser-compat-data and github/docs repositories.
-📝 I have some articles published on this repository.
+ Some personal things about me:
+  🌱 I’m currently studying about Dart 🐦.
+ 🛠 I’m currently working with Dart, Java, Flutter and FireBase.
+ ✍️ I usually contribute to the mdn/browser-compat-data and github/docs repositories.
+ 📝 I have some articles published on this repository.
 📫 You can reach me at my e-mail.
 Fun facts about me:
 🎨 I like to study and use good design practices.
