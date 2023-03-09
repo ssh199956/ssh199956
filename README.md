@@ -19,4 +19,4 @@ I also usually learn and guide people who are just starting out in the programmi
   🎨 I like to study and use good design practices.  
   📺 I really like the big bang theory and two and a half men tv series.  
   🥁 I go working in my spare time.  
-  <center>Last update: Wednesday, Jan 11th 2022, 22:41:55 pm UTC.  <center>
+  <center>Last update: Wednesday, Jan 11th 2022, 22:41:55 pm UTC.</center>
